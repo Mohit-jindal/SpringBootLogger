@@ -1,0 +1,8 @@
+02-06-2019 10:48:48.319 [main] INFO  c.i.app.SpringBootLoggerApplication.logStarting - Starting SpringBootLoggerApplication on 11XN542 with PID 1692 (C:\Mohit\spring_workspace\SpringBootLogger\target\classes started by zjinmoh in C:\Mohit\spring_workspace\SpringBootLogger)
+02-06-2019 10:48:48.324 [main] DEBUG c.i.app.SpringBootLoggerApplication.logStarting - Running with Spring Boot v1.5.21.RELEASE, Spring v4.3.24.RELEASE
+02-06-2019 10:48:48.325 [main] INFO  c.i.app.SpringBootLoggerApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+02-06-2019 10:48:53.401 [main] INFO  c.i.app.SpringBootLoggerApplication.logStarted - Started SpringBootLoggerApplication in 5.579 seconds (JVM running for 6.774)
+02-06-2019 10:48:53.402 [main] ERROR c.i.app.SpringBootLoggerApplication.main - Message logged at ERROR level
+02-06-2019 10:48:53.414 [main] WARN  c.i.app.SpringBootLoggerApplication.main - Message logged at WARN level
+02-06-2019 10:48:53.415 [main] INFO  c.i.app.SpringBootLoggerApplication.main - Message logged at INFO level
+02-06-2019 10:48:53.415 [main] DEBUG c.i.app.SpringBootLoggerApplication.main - Message logged at DEBUG level
